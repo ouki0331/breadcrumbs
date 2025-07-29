@@ -7,7 +7,7 @@
         "breadcrumbs",
         "crumbs"
     ],
-    "homepage": "https://github.com/sergeyklay/breadcrumbs",
+    "homepage": "https://github.com/ouki0331/breadcrumbs",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -16,12 +16,12 @@
         },
         {
             "name": "Contributors",
-            "homepage": "https://github.com/sergeyklay/breadcrumbs/graphs/contributors"
+            "homepage": "https://github.com/ouki0331/breadcrumbs/graphs/contributors"
         }
     ],
     "require": {
-        "php": ">= 5.5 <8.0",
-        "ext-phalcon": ">=2.0 <4.0"
+        "php": ">8.4",
+        "ext-phalcon": ">=5.9"
     },
     "conflict": {
         "phalcon/breadcrumbs": "*"
