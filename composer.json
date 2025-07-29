@@ -33,9 +33,10 @@
             "Phalcon\\": "src/"
         }
     },
-    "support": {
-        "issues": "https://github.com/sergeyklay/breadcrumbs/issues",
-        "forum": "https://forum.phalcon.io/",
-        "source": "https://github.com/phalcon/sergeyklay"
-    }
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ouki0331/breadcrumbs.git"
+        }
+    ]
 }
